@@ -1,0 +1,34 @@
+
+
+body{
+	background: url(https://i.ytimg.com/vi/voWpbz1De_M/maxresdefault.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.charButton{
+  margin-right: 20px;
+
+}
+.table {
+    margin: 45px auto;
+    table-layout: fixed;
+    text-align: center;
+}
+.head-line{
+	padding-top: 50px;
+	color: white;
+}
+.back-button {
+	position: absolute;
+
+}
+.next-button {
+	position: absolute;
+	right: 0;
+}
+.table-container{
+    width: 75%;
+    position: relative;
+
+}
